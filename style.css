@@ -1,5 +1,5 @@
 body{
   background-color:#fff048;
   background-repeat: repeat;
-  background-image: url('/src/grain.png')
+  background-image: url('./src/grain.png')
 }
